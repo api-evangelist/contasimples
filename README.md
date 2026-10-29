@@ -64,5 +64,103 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Contasimples is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://equityzen.com/company/contasimples
+Contasimples provides a digital banking platform for businesses in Brazil, offering corporate credit cards, payment services, expense management, and financial automation. The service includes features such as Pix transfers, batch payments, invoicing, and integration with ERP systems. It aims to simplify financial operations for startups and SMEs, providing tools for credit, cash flow management, and real‑time analytics.
+
+**Areas:** Company
+
+## Contasimples on APIs.io
+
+Everything profiled for Contasimples is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/contasimples/](https://apis.io/providers/contasimples/)** — or go straight to one of the APIs or properties below.
+
+### APIs (10)
+
+- [Conta Simples API](https://apis.io/apis/contasimples/conta-simples-api/) — Technical reference of Conta Simples API endpoints.
+- [Contasimples Accounts API](https://apis.io/apis/contasimples/contasimples-accounts-api/) — The Accounts API from Contasimples — 1 operation(s) for accounts.
+- [Contasimples Attachments API](https://apis.io/apis/contasimples/contasimples-attachments-api/) — The Attachments API from Contasimples — 2 operation(s) for attachments.
+- [Contasimples Categories API](https://apis.io/apis/contasimples/contasimples-categories-api/) — The Categories API from Contasimples — 2 operation(s) for categories.
+- [Contasimples Cost Centers API](https://apis.io/apis/contasimples/contasimples-cost-centers-api/) — The Cost Centers API from Contasimples — 2 operation(s) for cost centers.
+- [Contasimples Credit Cards API](https://apis.io/apis/contasimples/contasimples-credit-cards-api/) — The Credit Cards API from Contasimples — 6 operation(s) for credit cards.
+- [Contasimples OAuth API](https://apis.io/apis/contasimples/contasimples-oauth-api/) — The Oauth API from Contasimples — 1 operation(s) for oauth.
+- [Contasimples Statements API](https://apis.io/apis/contasimples/contasimples-statements-api/) — The Statements API from Contasimples — 3 operation(s) for statements.
+- [Contasimples Suppliers API](https://apis.io/apis/contasimples/contasimples-suppliers-api/) — The Suppliers API from Contasimples — 2 operation(s) for suppliers.
+- [Contasimples Users API](https://apis.io/apis/contasimples/contasimples-users-api/) — The Users API from Contasimples — 2 operation(s) for users.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Contasimples API Rules](https://apis.io/rules/contasimples/contasimples-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Contasimples Authentication](https://apis.io/security/contasimples/contasimples-authentication/)
+- [Contasimples Domain Security](https://apis.io/security/contasimples/contasimples-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://contasimples.com)
+- [Documentation](https://developers.contasimples.com/)
+- [Getting started](https://developers.contasimples.com/br/comece-aqui/quickstart)
+- [API reference](https://developers.contasimples.com/br/api-reference/introducao)
+- [Changelog](https://developers.contasimples.com/br/operacao/changelog)
+
+## API Evangelist rating
+
+**Kin Score 22.4** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 15.3 |
+| Contract governance | 18.2 |
+| Operational transparency | 23.7 |
+| Developer ergonomics | 40.5 |
+| Access clarity | 0.0 |
+
+**Agent readiness 33.4** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | documented (partial credit) |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+
+**Regulatory alignment 16.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/contasimples/](https://apis.io/providers/contasimples/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Contasimples: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/contasimples/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
